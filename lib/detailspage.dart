@@ -20,7 +20,7 @@ class _DetailsPageState extends State<DetailsPage> {
               Positioned(
                   top: MediaQuery.of(context).size.height / 2,
                   child: Container(
-                      height: MediaQuery.of(context).size.height / 2 - 20.0,git
+                      height: MediaQuery.of(context).size.height / 2 - 20.0,
                       width: MediaQuery.of(context).size.width,
                       decoration: BoxDecoration(
                           borderRadius: BorderRadius.only(
